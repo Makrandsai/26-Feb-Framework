@@ -83,7 +83,7 @@ public class DashboradPage extends TestBase {
 		//Thread.sleep(4000);
 		placeorderbtn.click();
 		
-		
+		// makrand vasant temkar
 		
 	}
 	
