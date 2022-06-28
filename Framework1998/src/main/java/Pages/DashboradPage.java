@@ -84,7 +84,7 @@ public class DashboradPage extends TestBase {
 		placeorderbtn.click();
 		
 		// makrand vasant temkar
-		
+		// Velocity Institude pune
 	}
 	
 }
